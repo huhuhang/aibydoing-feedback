@@ -1,3 +1,1 @@
-# hands-on-ai-feedback
-
-- Read [Hands-on AI](https://ai.huhuhang.com/)
+- 阅读 [动手实战人工智能](https://aibydoing.com)
